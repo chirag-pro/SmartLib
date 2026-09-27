@@ -163,18 +163,6 @@ http://127.0.0.1:5000
 
 The database (`library.db`) and all sample data are created automatically on first run.
 
----
-
-## 🔐 Demo Credentials
-
-| Role | Username | Password |
-|------|----------|----------|
-| Admin | `admin` | `admin123` |
-| Student | `student` | `student123` |
-
-> ⚠️ These are demo credentials for educational use. Change them before any real deployment.
-
----
 
 ## 📊 Database Tables
 
@@ -234,7 +222,7 @@ The database (`library.db`) and all sample data are created automatically on fir
 
 ---
 
-## 🎓 How to Explain This Project in Viva
+Question for projects 
 
 ### 1. What is the Library Management System?
 A web application that digitizes library operations — students can borrow/return books online and admins can manage the entire library from a single dashboard.
